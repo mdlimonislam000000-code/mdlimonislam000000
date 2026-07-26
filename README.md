@@ -39,11 +39,10 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ---
 
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdlimonislam000000&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlimonislam000000&layout=compact&theme=default) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdlimonislam000000&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlimonislam000000&layout=compact&theme=default" />
+</p>
 
 ---
 
