@@ -1,11 +1,9 @@
-# mdlimonislam000000
-
-# Hi 👋, I'm <Limon Mia>  
+# Hi 👋, I'm Limon Mia  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
-## 👨💻 About Me  
+## 👨‍💻 About Me  
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
 Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
@@ -34,20 +32,19 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-limon-islam-96b8333b4))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/yourhandle](https://x.com/mdLimonMia0101))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-limon-islam-96b8333b4)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/mdLimonMia0101)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mdlimonislam000000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mdlimonislam000000@gmail.com)
 
 ---
-
 
 ## 📊 GitHub Stats  
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdlimonislam000000&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlimonislam000000&layout=compact&theme=default) | | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlimonislam000000&layout=compact&theme=default)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdlimonislam000000&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlimonislam000000&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=mdlimonislam000000&style=flat-square)
